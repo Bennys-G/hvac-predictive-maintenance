@@ -79,8 +79,9 @@ hvac-predictive-maintenance/
 ![Importancia de variables](assets/feature_importance.png)
 
 ### Matriz de confusión
+<img width="800" height="640" alt="confusion_matrix" src="https://github.com/user-attachments/assets/a85e7530-9937-4dc5-a538-015e48e0a50f" />
 
-![Matriz de confusión](assets/confusion_matrix.png)
+
 
 ## Conclusión
 
