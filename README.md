@@ -67,16 +67,19 @@ hvac-predictive-maintenance/
 ## Visualizaciones
 
 ### Delta T promedio por condición de falla
+<img width="1280" height="800" alt="delta_t_failure" src="https://github.com/user-attachments/assets/7a45af40-76cd-4382-a61a-948bc7268aaa" />
 
-![Delta T por falla](assets/delta_t_failure.png)
+
 
 ### Consumo energético vs temperatura exterior
+<img width="1280" height="800" alt="energy_vs_outdoor_temp" src="https://github.com/user-attachments/assets/0a201efa-efd6-402b-abd3-eab54e7557f4" />
 
-![Energía vs temperatura exterior](assets/energy_vs_outdoor_temp.png)
+
 
 ### Variables relacionadas con riesgo de falla
+<img width="1280" height="800" alt="delta_t_failure" src="https://github.com/user-attachments/assets/b4162e70-014d-44f4-9d78-8ce9e00d98c8" />
 
-![Importancia de variables](assets/feature_importance.png)
+
 
 ### Matriz de confusión
 <img width="800" height="640" alt="confusion_matrix" src="https://github.com/user-attachments/assets/a85e7530-9937-4dc5-a538-015e48e0a50f" />
